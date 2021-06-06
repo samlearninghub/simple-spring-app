@@ -1,4 +1,5 @@
 # Simple Spring App
+@updted 06-06-2021
 
 Example Spring Boot application for demos on Azure App Service. Runs on Java 8.
 
